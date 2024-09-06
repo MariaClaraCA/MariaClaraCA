@@ -1,13 +1,13 @@
 👋 Olá! Eu sou a Maria!
 Bem-vindo(a) ao meu perfil! 😊
 
-👨‍💻 Sobre Mim
+Sobre Mim
 
 🌱 Atualmente estou aprendendo e explorando tecnologias como PHP, HTMl, CSS, JavaScript, React, Cloud Computing, entre outras.
 
 📚 Sempre em busca de novos cursos e oportunidades para melhorar minhas habilidades técnicas.
 
-🚀 O que eu faço?
+ O que eu faço?
 
 🎓 Estudante de Análise e desenvolvimento de Sistemas e apaixonada por aprender coisas novas!
 
