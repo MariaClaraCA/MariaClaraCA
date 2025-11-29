@@ -1,101 +1,117 @@
-👋 Olá! Eu sou a Maria!
-Bem-vindo(a) ao meu perfil! 😊
+<div align="center">
+  <p>
 
-Sobre Mim
+$$\color{#f54295} MariaClara $$
 
-🌱 Atualmente estou aprendendo e explorando tecnologias como PHP, HTMl, CSS, JavaScript, React, Cloud Computing, entre outras.
+  <samp color="#f54295">
+    
+    
+    
+  </samp>
+  </p>
+  <p align="center">
+    <a href="https://github.com/MariaClaraCA/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora%20Front-end;UI%2FUX%20Designer%20apaixonada%20por%20detalhes;Criando%20experi%C3%AAncias%20digitais%20incr%C3%ADveis;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    </a>
+  </p>
+</div>
 
-📚 Sempre em busca de novos cursos e oportunidades para melhorar minhas habilidades técnicas.
+<div align="left">
 
- O que eu faço?
+  ---
+<samp>
 
-🎓 Estudante de Análise e desenvolvimento de Sistemas e apaixonada por aprender coisas novas!
+  #### 💻 Linguagens e tecnologias
 
-✨ Sempre que posso estou postando meus projetos por aqui 🌿
+</samp>
+
+  <img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+
+  <img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+
+  <img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
-#### Linguagens e tecnologias
+  <img 
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+  />
 
+  <img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+  />
 
+  <img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+  />
 
-<img
-  align="left"
-  alt="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+  <img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+  />
 
+  <img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
 
-<img
-  align="left"
-  alt="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-              
-
-<img
-  align="left"
-  alt="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  
+  <img
+    align="left"
+    alt="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    />
           
 
-<img 
-  align="left"
-  alt="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-          
+  <br/><br/>
 
-<img
-  align="left"
-  alt="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+  <samp> 
+
+  #### 📊 Estátisticas
+
+  </samp>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MariaClaraCA)](https://git.io/streak-stats)
 
 
-
-<img
-  align="left"
-  alt="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+</div>
 
 
-<img
-  align="left"
-  alt="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-          
-
-<img
-  align="left"
-  alt="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-          
-<br/><br/>
-
-<!--<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaClaraCA/MariaClaraCA/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaClaraCA/MariaClaraCA/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MariaClaraCA/MariaClaraCA/output/github-contribution-grid-snake.svg">
-</picture>-->
-
-<!--
+<!-- --
 **MariaClaraCA/MariaClaraCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
