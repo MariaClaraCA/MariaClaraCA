@@ -108,6 +108,11 @@ $$\color{#f75c7e} MariaClara $$
   </samp>
 
 
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MariaClaraCA" alt="GitHub Streak" />
+</a>
+
+
 </div>
 
 
