@@ -107,7 +107,7 @@ $$\color{#f54295} MariaClara $$
 
   </samp>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MariaClaraCA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MariaClaraCA)](https://git.io/streak-stats)
 
 
 </div>
