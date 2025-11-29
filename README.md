@@ -115,8 +115,5 @@ $$\color{#f75c7e} MariaClara $$
 
 </div>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MariaClaraCA)](https://git.io/streak-stats)
-
 <!-- --
 **MariaClaraCA/MariaClaraCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
