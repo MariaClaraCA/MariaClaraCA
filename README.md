@@ -100,6 +100,9 @@ $$\color{#f75c7e} MariaClara $$
           
 
   <br/><br/>
+  </div>
+
+  <div align="center">
 
   <samp> 
 
