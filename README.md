@@ -109,7 +109,7 @@ $$\color{#f75c7e} MariaClara $$
 
 
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MariaClaraCA" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MariaClaraCA" alt="GitHub Streak" />
 </a>
 
 
