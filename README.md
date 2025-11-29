@@ -1,7 +1,7 @@
 <div align="center">
   <p>
 
-$$\color{#f54295} MariaClara $$
+$$\color{#f75c7e} MariaClara $$
 
   <samp color="#f54295">
     
@@ -107,11 +107,11 @@ $$\color{#f54295} MariaClara $$
 
   </samp>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MariaClaraCA)](https://git.io/streak-stats)
-
 
 </div>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MariaClaraCA)](https://git.io/streak-stats)
 
 <!-- --
 **MariaClaraCA/MariaClaraCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
